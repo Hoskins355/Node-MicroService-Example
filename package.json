@@ -1,0 +1,16 @@
+{
+  "name": "Node-Microservice-Example",
+  "version": "1.0.0",
+  "description": "A Basic Node Microservice Example",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Hoskins",
+  "license": "none",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
